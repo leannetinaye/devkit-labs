@@ -1,7 +1,7 @@
 {
   "name": "@leannetinaye/env-sanitizer",
   "version": "0.1.2",
-  "description": "Schema-based environment variable validation for Node.js without external deps.",
+  "description": "Schema-based environment variable validation and sanitization",
   "main": "index.js",
   "license": "MIT",
   "keywords": [
