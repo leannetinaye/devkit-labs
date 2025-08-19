@@ -1,0 +1,31 @@
+{
+  "name": "@leannetinaye/safe-json",
+  "version": "0.1.1",
+  "description": "Crash-proof JSON.parse + safe stringify with circular detection.",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "json",
+    "safe",
+    "parse",
+    "stringify",
+    "circular",
+    "fault-tolerant"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leannetinaye/devkit-labs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leannetinaye/devkit-labs/issues"
+  },
+  "homepage": "https://github.com/leannetinaye/devkit-labs#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}

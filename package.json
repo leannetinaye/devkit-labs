@@ -1,0 +1,9 @@
+{
+  "name": "devkit-labs",
+  "private": true,
+  "workspaces": ["packages/*", "demo"],
+  "engines": { "node": ">=18.0.0" },
+  "scripts": {
+    "demo": "npm -w demo start"
+  }
+}
