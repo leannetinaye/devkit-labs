@@ -1,6 +1,6 @@
 {
   "name": "@leannetinaye/safe-json",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Crash-proof JSON.parse + safe stringify with circular detection.",
   "main": "index.js",
   "license": "MIT",

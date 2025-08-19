@@ -1,6 +1,6 @@
 {
   "name": "@leannetinaye/csv-smart-parse",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Robust CSV parsing with delimiter auto-detect and type inference. Supports strings and files.",
   "main": "index.js",
   "license": "MIT",
